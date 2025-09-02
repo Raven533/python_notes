@@ -105,5 +105,3 @@ for new_user in new_users:
         print(f"Sorry, {new_user} is not available. Please choose an other username.")
     else:
         print(f"{new_user} is available to use.")
-
-# left from page 89

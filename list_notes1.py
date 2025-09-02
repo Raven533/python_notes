@@ -1,6 +1,6 @@
-#           0        1     2            3            4
+#           0        1        2        3        4
 names = ['john' , 'johnny', 'rick', 'peter', 'dude']
-#          -5       -4     -3          -2           -1
+#          -5       -4       -3        -2      -1
 
 # ---------- Messages ----------
 print(f"Hello there! {names[0].title()} welcome to the party!")
@@ -34,11 +34,11 @@ print(sorted(names, reverse=True)) # will temporarily sort the list from (Z - A)
 removed_one = 'dude' # using "remove" to delete and also use the deleted item
 names.remove(removed_one) # or names.remove('dude')
 
-del names[3]               # using "del" to deleting permanently the list variable
+del names[3]              # using "del" to deleting permanently the list variable
 
-removed_two = names.pop(0)
+removed_two = names.pop(0) # we are poping out a value in the "names" list and putting it into "remove_two" variable
 
 print(f"Hey there {removed_one.title()} I am so sorry for removing you from the dinner")
 print(f"Hey there {removed_two.title()} I am so sorry for removing you from the dinner")
-print("Mohammad has been removed without any notice!!!!!!!")
+print("John has been removed without any notice!!!!!!!")
 print(f"\nThis is the guests that remianed!!: \n{names}")
