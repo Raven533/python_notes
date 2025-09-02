@@ -13,5 +13,5 @@ In order to use these notes, just run this command to copy them all to your loca
 ---
 
 ### What you can do?
-- If you read the notes and they were useful, it would be great if you give this repo a star ⭐ and share it with your friends :)
+- If you read the notes and they were useful, it would be great if you give this repo a star :star: and share it with your friends :)
 - If you have any suggestions or changes for the notes, let me know by opening a pull request. I'd be happy to review and add your code into the main branch if it is good.
