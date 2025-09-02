@@ -1,4 +1,4 @@
-# My Python Notes
+# My Python Notes :notebook:
 
 ### What is this?
 In this repository I will put all my python notes that I take along the way of learning python.
